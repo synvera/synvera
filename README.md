@@ -49,7 +49,7 @@
 
 ---
 
-### Hmmmzz....
+
 > “Tiap detak jarum jam berputar memikul waktu, menanti wangi semerbak dari dirimu. Jika wangi itu lenyap, mungkin bukan aku yang engkau tuju"  
 
 ---
