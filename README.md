@@ -24,10 +24,6 @@
 
 ---
 
-### 🌑 The Dark Ambience  
-[![Enter the Forest](https://i.ibb.co/6RrN8DC/dark-forest-cover.jpg)](https://www.youtube.com/watch?v=kK6YjK5eOjo)
-
-> 🎧 *Play if you dare… A haunting dark forest ambience (turn off the lights).*
 
 ---
 
