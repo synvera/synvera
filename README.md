@@ -118,7 +118,7 @@ const kahfi = {
   <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=777C6D" />
   </a>
-  <a href="#">
+  <a href="synveragroup@gmail.com">
     <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=777C6D" />
   </a>
 </p>
