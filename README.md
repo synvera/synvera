@@ -33,16 +33,17 @@
 ### Ritual of Stats  
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=synvera&show_icons=true&theme=tokyonight&title_color=00c4ff&icon_color=00c4ff&text_color=9fdcff&bg_color=000000&hide_border=true&border_radius=12" 
+    src="https://github-readme-stats.vercel.app/api?username=synvera&show_icons=true&theme=tokyonight&title_color=777C6D&icon_color=777C6D&text_color=777C6D&bg_color=000000&hide_border=true&border_radius=12" 
     height="160" 
     alt="Synvera Stats"
   >
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=synvera&layout=compact&theme=tokyonight&title_color=00c4ff&text_color=9fdcff&bg_color=000000&hide_border=true&border_radius=12" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=synvera&layout=compact&theme=tokyonight&title_color=777C6D&text_color=777C6D&bg_color=000000&hide_border=true&border_radius=12" 
     height="160" 
     alt="Top Languages"
   >
 </p>
+
 
 
 
