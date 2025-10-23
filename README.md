@@ -25,7 +25,7 @@
 </p>
 
 ---
-![Deskripsi GIF](https://github.com/synvera/synvera/blob/main/asset/imago.gif)
+![Deskripsi GIF](imago.gif)
 
 ---
 
@@ -51,6 +51,11 @@
 ### Hmmmzz....
 > “Tiap detak jarum jam berputar memikul waktu, menanti wangi semerbak dari dirimu. Jika wangi itu lenyap, mungkin bukan aku yang engkau tuju"  
 
+---
+
+### Dan
+
+> "Setiap Pertemuan, akan terjadinya perpisahan"
 <p align="center">
   🕸️ Crafted in darkness by <b>Synvera</b> 🕸️  
 </p>
