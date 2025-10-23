@@ -1,3 +1,4 @@
+
 <h1 align="center"> Welcome to the Synvera </h1>
 <h3 align="center"> I'm <b>Kahfi</b> — where silence meets code </h3>
 
@@ -25,7 +26,7 @@
 </p>
 
 ---
-![Deskripsi GIF](imago.gif)
+![Deskripsi GIF](https://github.com/synvera/synvera/blob/main/asset/imago.gif)
 
 ---
 
