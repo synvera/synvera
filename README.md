@@ -5,14 +5,14 @@
 
 ---
 
-### 🩸 About Me  
+### About Me  
 > 👁️ *A student of Software Engineering (RPL), wandering between code and chaos.*  
 > 💻 Exploring **Web Development** — where design bleeds into functionality.  
 > 🕳️ My world revolves around **HTML, CSS, JS, and the shadows of backend**.  
 
 ---
 
-### ⚙️ Tech Arsenal  
+### Tech Arsenal  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
@@ -27,16 +27,29 @@
 
 ---
 
-### 📊 Ritual of Stats  
+### 🔮 Ritual of Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=synvera&show_icons=true&theme=merko&title_color=ff0000&icon_color=ff0000&text_color=c0c0c0&bg_color=000000" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=synvera&layout=compact&theme=merko&title_color=ff0000&text_color=c0c0c0&bg_color=000000" height="160">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=synvera&show_icons=true&theme=tokyonight&title_color=00c4ff&icon_color=00c4ff&text_color=9fdcff&bg_color=000000&hide_border=true&border_radius=12" 
+    height="160" 
+    alt="Synvera Stats"
+  >
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=synvera&layout=compact&theme=tokyonight&title_color=00c4ff&text_color=9fdcff&bg_color=000000&hide_border=true&border_radius=12" 
+    height="160" 
+    alt="Top Languages"
+  >
 </p>
+
+<p align="center">
+  <img src="https://i.ibb.co/jG5F6Xv/blue-line.gif" width="80%" alt="divider">
+</p>
+
 
 
 ---
 
-### 🔮 Words from the Abyss  
+### Words from the Abyss  
 > “The code watches you back...  
 >  Every line whispers your fate.”  
 
