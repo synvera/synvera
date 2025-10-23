@@ -1,7 +1,7 @@
 <h1 align="center"> Welcome to the Synvera </h1>
 <h3 align="center"> I'm <b>Kahfi</b> — where silence meets code </h3>
 
-> *“In the dark forest of logic, every bug is a whisper from the unknown...”*
+> *“Aku menyukaimu sebanyak biru, seluas langit dan lautan....”*
 
 ---
 
