@@ -1,4 +1,4 @@
-<h1 align="center">☠️ Welcome to the Synvera ☠️</h1>
+<h1 align="center"> Welcome to the Synvera </h1>
 
 <p align="center">
   <img src="https://i.ibb.co/5kJtfk1/haunted-forest.gif" width="600" alt="Haunted Forest">
