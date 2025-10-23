@@ -55,8 +55,18 @@
 ---
 
 ### Dan
+<p align="center">
+  <img src="https://github.com/synvera/synvera/blob/main/asset/%F0%9D%93%9B%F0%9D%93%B2%F0%9D%93%B7%20-%20Katawaredoki.gif" 
+       width="300" 
+       height="150" 
+       alt="Flowing Sand"/>
+</p>
+ "barangkali Tuhan sengaja menaruhmu di semesta yang sama, karena Ia tahu — langkahku dan langkahmu diciptakan dari tanah yang sama, agar ketika angin membawa kita ke arah yang berbeda, takdir akan tetap tahu jalan untuk mempertemukam."
+ 
+ dan
 
-> "Setiap Pertemuan, akan terjadinya perpisahan"
+ pada tiap-tiap yang ada di dalam dirimu, aku terima dengan kasih, dan aku—berterima kasih
+
 <p align="center">
   🕸️ Crafted in darkness by <b>Synvera</b> 🕸️  
 </p>
