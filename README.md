@@ -6,9 +6,9 @@
 ---
 
 ### About Me  
-> 👁️ *A student of Software Engineering (RPL), wandering between code and chaos.*  
-> 💻 Exploring **Web Development** — where design bleeds into functionality.  
-> 🕳️ My world revolves around **HTML, CSS, JS, and the shadows of backend**.  
+> *A student of Software Engineering (RPL), wandering between code and chaos.*  
+> Exploring **Web Development** — where design bleeds into functionality.  
+> My world revolves around **HTML, CSS, JS, and the shadows of backend**.  
 
 ---
 
