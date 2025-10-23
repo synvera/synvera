@@ -1,10 +1,5 @@
 <h1 align="center"> Welcome to the Synvera </h1>
-
-<p align="center">
-  <img src="https://i.ibb.co/5kJtfk1/haunted-forest.gif" width="600" alt="Haunted Forest">
-</p>
-
-<h3 align="center">🕯️ I'm <b>Kahfi</b> — where silence meets code 🕯️</h3>
+<h3 align="center"> I'm <b>Kahfi</b> — where silence meets code </h3>
 
 > *“In the dark forest of logic, every bug is a whisper from the unknown...”*
 
