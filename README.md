@@ -20,11 +20,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="45"/>
 </p>
 
 ---
 
-### 🔮 Ritual of Stats  
+### Ritual of Stats  
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=synvera&show_icons=true&theme=tokyonight&title_color=00c4ff&icon_color=00c4ff&text_color=9fdcff&bg_color=000000&hide_border=true&border_radius=12" 
