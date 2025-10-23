@@ -41,9 +41,6 @@
   >
 </p>
 
-<p align="center">
-  <img src="https://i.ibb.co/jG5F6Xv/blue-line.gif" width="80%" alt="divider">
-</p>
 
 
 
