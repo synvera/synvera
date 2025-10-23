@@ -25,6 +25,9 @@
 </p>
 
 ---
+![Deskripsi GIF](imago.gif)
+
+---
 
 ### Ritual of Stats  
 <p align="center">
