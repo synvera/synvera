@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=777C6D&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=I'm+Kahfi+%E2%80%94+A+Digital+Wanderer;Crafting+Dreams+in+Lines+of+Code;%22Aku+menyukaimu+sebanyak+biru...%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=777C6D&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=I'm+Kahfi+%E2%80%94+A+Digital+Wanderer;Crafting+Dreams+in+Lines+of+Code;%22Dan+akhirnya+aku+menyerah+...%22" alt="Typing SVG" />
 </p>
 
 <!-- GLOWING DIVIDER -->
