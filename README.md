@@ -1,5 +1,9 @@
-![Deskripsi GIF](https://github.com/synvera/synvera/blob/main/asset/flowing%20sand%20(gif).gif)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/synvera/synvera/main/asset/flowing%20sand%20(gif).gif" 
+       width="300" 
+       height="150" 
+       alt="Flowing Sand"/>
+</p>
 ---
 <h1 align="center"> Welcome to the Synvera </h1>
 <h3 align="center"> I'm <b>Kahfi</b> — where silence meets code </h3>
