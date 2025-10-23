@@ -4,7 +4,6 @@
        height="150" 
        alt="Flowing Sand"/>
 </p>
----
 <h1 align="center"> Welcome to the Synvera </h1>
 <h3 align="center"> I'm <b>Kahfi</b> — where silence meets code </h3>
 
