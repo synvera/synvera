@@ -26,9 +26,6 @@
 </p>
 
 ---
-![Deskripsi GIF](https://github.com/synvera/synvera/blob/main/asset/imago.gif)
-
----
 
 ### Ritual of Stats  
 <p align="center">
@@ -50,7 +47,7 @@
 
 ---
 
-### Hmmmzz....
+
 > “Tiap detak jarum jam berputar memikul waktu, menanti wangi semerbak dari dirimu. Jika wangi itu lenyap, mungkin bukan aku yang engkau tuju"  
 
 ---
@@ -58,8 +55,7 @@
 ### Dan
 <p align="center">
   <img src="https://github.com/synvera/synvera/blob/main/asset/%F0%9D%93%9B%F0%9D%93%B2%F0%9D%93%B7%20-%20Katawaredoki.gif" 
-       width="300" 
-       height="150" 
+       width="100%" 
        alt="Flowing Sand"/>
 </p>
  "barangkali Tuhan sengaja menaruhmu di semesta yang sama, karena Ia tahu — langkahku dan langkahmu diciptakan dari tanah yang sama, agar ketika angin membawa kita ke arah yang berbeda, takdir akan tetap tahu jalan untuk mempertemukam."
