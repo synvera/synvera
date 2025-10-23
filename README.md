@@ -25,7 +25,7 @@
 </p>
 
 ---
-![Deskripsi GIF](imago.gif)
+![Deskripsi GIF](https://github.com/synvera/synvera/blob/main/asset/imago.gif)
 
 ---
 
