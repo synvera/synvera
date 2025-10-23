@@ -1,3 +1,6 @@
+![Deskripsi GIF](https://github.com/synvera/synvera/blob/main/asset/flowing%20sand%20(gif).gif)
+
+---
 <h1 align="center"> Welcome to the Synvera </h1>
 <h3 align="center"> I'm <b>Kahfi</b> — where silence meets code </h3>
 
@@ -23,9 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="45"/>
 </p>
-
----
-![Deskripsi GIF](https://github.com/synvera/synvera/blob/main/asset/imago.gif)
 
 ---
 
