@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=777C6D&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=I'm+Kahfi+%E2%80%94+A+Digital+Wanderer;Crafting+Dreams+in+Lines+of+Code;%22Dan+akhirnya+aku+menyerah+...%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=777C6D&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=I'm+Kahfi+%E2%80%94+A+Digital+Wanderer;Crafting+Dreams+in+Lines+of+Code;%22Aku+menyukaimu+sebanyak+biru...%22" alt="Typing SVG" />
 </p>
 
 <!-- GLOWING DIVIDER -->
@@ -87,7 +87,9 @@ const kahfi = {
 
 ## 🌊 **Poetry in Motion**
 
-<img src="https://github.com/synvera/synvera/blob/main/asset/%F0%9D%93%9B%F0%9D%93%B2%F0%9D%93%B7%20-%20Katawaredoki.gif" width="100%" alt="Katawaredoki"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=4000&pause=1000&color=777C6D&center=true&vCenter=true&multiline=true&width=800&height=80&lines=%E2%9C%A8+Tiap+detak+jarum+jam+berputar+memikul+waktu%2C;menanti+wangi+semerbak+dari+dirimu...+%E2%9C%A8" alt="Poetry Animation" />
+</p>
 
 <br>
 
@@ -118,7 +120,7 @@ const kahfi = {
   <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=777C6D" />
   </a>
-  <a href="synveragroup@gmail.com">
+  <a href="#">
     <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=777C6D" />
   </a>
 </p>
@@ -143,11 +145,14 @@ const kahfi = {
 <!-- ANIMATED FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" width="100%"/>
 
-<!-- SNAKE ANIMATION -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/synvera/synvera/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/synvera/synvera/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/synvera/synvera/output/github-contribution-grid-snake.svg">
-</picture>
+<!-- ANIMATED FOOTER EXTRAS -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
+</p>
+
+<!-- YOUR CUSTOM GIF -->
+<p align="center">
+  <img src="https://github.com/synvera/synvera/blob/main/asset/download%20(3).gif?raw=true" width="100%" alt="Synvera Footer Animation"/>
+</p>
 
 </div>
