@@ -37,9 +37,10 @@
 
 ### 📊 Ritual of Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tegarpermanaputra21-sudo&show_icons=true&theme=merko&title_color=ff0000&icon_color=ff0000&text_color=c0c0c0&bg_color=000000" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tegarpermanaputra21-sudo&layout=compact&theme=merko&title_color=ff0000&text_color=c0c0c0&bg_color=000000" height="160">
+  <img src="https://github-readme-stats.vercel.app/api?username=synvera&show_icons=true&theme=merko&title_color=ff0000&icon_color=ff0000&text_color=c0c0c0&bg_color=000000" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=synvera&layout=compact&theme=merko&title_color=ff0000&text_color=c0c0c0&bg_color=000000" height="160">
 </p>
+
 
 ---
 
