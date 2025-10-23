@@ -24,9 +24,6 @@
 
 ---
 
-
----
-
 ### 🔮 Ritual of Stats  
 <p align="center">
   <img 
@@ -46,14 +43,9 @@
 
 ---
 
-### Words from the Abyss  
-> “The code watches you back...  
->  Every line whispers your fate.”  
+### Hmmmzz....
+> “Tiap detak jarum jam berputar memikul waktu, menanti wangi semerbak dari dirimu. Jika wangi itu lenyap, mungkin bukan aku yang engkau tuju"  
 
 <p align="center">
-  <img src="https://i.ibb.co/s6xymMf/glitch-red.gif" width="400" alt="Glitch Line">
-</p>
-
-<p align="center">
-  🕸️ Crafted in darkness by <b>Noth1ng</b> 🕸️  
+  🕸️ Crafted in darkness by <b>Synvera</b> 🕸️  
 </p>
