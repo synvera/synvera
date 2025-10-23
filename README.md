@@ -26,9 +26,6 @@
 </p>
 
 ---
-![Deskripsi GIF](https://github.com/synvera/synvera/blob/main/asset/imago.gif)
-
----
 
 ### Ritual of Stats  
 <p align="center">
