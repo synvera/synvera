@@ -150,7 +150,7 @@ SQL          ████░░░░░░░░░░░░░░░░░   1
 ## 🌊 **Poetry in Binary**
 
 <!-- MAIN AESTHETIC GIF -->
-<img src="https://github.com/synvera/synvera/blob/main/asset/flowing%20sand%20(gif)%20(1).gif?raw=true" width="80%" alt="Katawaredoki"/>
+<img src="https://github.com/synvera/synvera/blob/main/asset/flowing%20sand%20(gif)%20(1).gif?raw=true" width="70%" alt="Katawaredoki"/>
 
 <br>
 
