@@ -158,9 +158,6 @@ SQL          ████░░░░░░░░░░░░░░░░░   1
 <table align="center">
 <tr>
 <td align="center" width="100%">
-
-### 💫 *Filosophy of Synvera*
-
 <br>
 
 > *"Barangkali Tuhan sengaja menaruhmu di semesta yang sama,*  
@@ -170,18 +167,12 @@ SQL          ████░░░░░░░░░░░░░░░░░   1
 
 <br>
 
-**✨ Jika wangi itu lenyap, mungkin bukan aku yang engkau tuju ✨**
-
 </td>
 </tr>
 </table>
 
 <br>
 
-<!-- DYNAMIC QUOTE GENERATOR -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=Code%20is%20poetry%20written%20in%20logic&author=Synvera" />
-</p>
 
 <!-- GLOWING DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
