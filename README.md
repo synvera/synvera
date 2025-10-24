@@ -155,9 +155,9 @@ SQL          ████░░░░░░░░░░░░░░░░░   1
 <br>
 
 <!-- POETIC QUOTE SECTION WITH STYLING -->
-<table align="center">
+<table align="left">
 <tr>
-<td align="center" width="100%">
+<td align="left" width="100%">
 <br>
 
 > *"Barangkali Tuhan sengaja menaruhmu di semesta yang sama,*  
