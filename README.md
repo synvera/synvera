@@ -1,54 +1,79 @@
-<h1 align="center">Kapi</h1>
-<p align="center">Modern Developer • Clean Code Enthusiast • Minimalist Tech Builder</p>
+<!-- ULTRA PREMIUM BLACK MINIMALIST README FOR KAPI -->
+
+<h1 align="center" style="font-weight:700;">Kapi</h1>
+<p align="center">Software Developer • Modern Engineering • Minimalist Systems Design</p>
+
+<br>
+
+## Profile
+I build software with a focus on clarity, performance, and long-term maintainability.  
+My areas of interest include backend engineering, system design, developer tooling, and AI-assisted development.  
+I value minimalism, clean architecture, and reliable engineering practices.
 
 ---
 
-## About Me
-I am a developer focused on building clean, efficient, and scalable applications.  
-I enjoy exploring modern technologies, writing maintainable code, and learning deeper concepts in computer science.  
-Currently improving my skills in backend development, system design, and AI-related technologies.
+## Technical Skills
+### Core Stack
+- JavaScript / TypeScript  
+- Node.js & modern frameworks  
+- Python  
+- SQL & NoSQL Databases  
+- API engineering & backend design  
+- Clean architecture & modular patterns  
 
----
+### Tools & Ecosystem
+- Git, GitHub, CI/CD pipelines  
+- Docker & containerized workloads  
+- Linux development workflow  
+- Design tools: Figma, Tailwind
 
-## Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,vue,bootstrap,tailwind,python,java,cpp,php,laravel,mysql,postgres,mongodb,firebase,git,github,docker,kubernetes,linux" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,python,java,cpp,php,laravel,html,css,tailwind,bootstrap,mysql,postgres,mongodb,firebase,docker,linux,git,github" />
 </p>
 
 ---
 
-## GitHub Analytics
+## GitHub Performance Metrics
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=cccccc&icon_color=888888" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=cccccc" />
 </div>
 
 ---
 
-## Featured Projects
-### • Clean Architecture Backend
-Modular backend structure designed with separation of concerns, repository pattern, and scalable service layer.
-
-### • Modern UI Web Dashboard
-Dashboard interface with responsive design, optimized components, and minimalistic dark styling.
-
-### • Machine Learning Experiments
-Collection of models, experiments, and notebooks involving classification, regression, and early-stage neural networks.
+## Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=react-dark&hide_border=true&area=true" width="100%" />
+</div>
 
 ---
 
-## Tools I Use
-- VS Code, JetBrains Suite  
-- Git & GitHub  
-- Postman, Insomnia  
-- Docker environment setup  
-- Linux-based workflow  
+## Selected Work
+### Backend Architecture
+Systems built with layered architecture, efficient routing, clear separation of concerns, and predictable behavior.
+
+### Interface Engineering
+Modern UI with consistent layout systems, clean spacing, and zero-noise design language.
+
+### Machine Learning & Automation
+Lightweight ML experiments, automation scripts, and data-driven workflows.
+
+*(Tambahkan link repositori saat sudah siap.)*
+
+---
+
+## Workflow Principles
+- Clarity over complexity  
+- Maintainability over shortcuts  
+- Structure over improvisation  
+- Precision over decoration  
 
 ---
 
 ## Contact
-You can reach me through GitHub or any preferred platform for collaboration, discussion, or development projects.
+Available for collaborative development, system planning, and project discussions.  
+You can reach out directly through GitHub or any platform you prefer.
 
 ---
 
-<p align="center">— Minimalist. Precise. Built for clarity. —</p>
+<p align="center" style="opacity:0.6;">Focused. Minimal. Engineered with intent.</p>
