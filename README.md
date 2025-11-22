@@ -1,64 +1,54 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/yourimage.png" width="100%" />
-</p>
-
-<h1 align="center">Namaste 🙏 I'm YOUR NAME</h1>
-
-### 👨‍💻 About Me
-- 🌱 I’m currently learning and improving my programming skills.  
-- 🧠 Interested in Artificial Intelligence, Machine Learning, and Backend Development.  
-- 💼 Skills in C++, Java, Python, and Web Development.  
-- 🎯 I only like perfection.
+<h1 align="center">Kapi</h1>
+<p align="center">Modern Developer • Clean Code Enthusiast • Minimalist Tech Builder</p>
 
 ---
 
-### 🌐 Connect With Me  
+## About Me
+I am a developer focused on building clean, efficient, and scalable applications.  
+I enjoy exploring modern technologies, writing maintainable code, and learning deeper concepts in computer science.  
+Currently improving my skills in backend development, system design, and AI-related technologies.
+
+---
+
+## Tech Stack
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=spotify" width="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=youtube" width="40"/></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,vue,bootstrap,tailwind,python,java,cpp,php,laravel,mysql,postgres,mongodb,firebase,git,github,docker,kubernetes,linux" />
 </p>
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" height="150"/>
-</p>
+## GitHub Analytics
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=github_dark&hide_border=true" />
+</div>
 
 ---
 
-## 🧰 Languages & Tools  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,java,mysql,bootstrap,git,github,nodejs" />
-</p>
+## Featured Projects
+### • Clean Architecture Backend
+Modular backend structure designed with separation of concerns, repository pattern, and scalable service layer.
+
+### • Modern UI Web Dashboard
+Dashboard interface with responsive design, optimized components, and minimalistic dark styling.
+
+### • Machine Learning Experiments
+Collection of models, experiments, and notebooks involving classification, regression, and early-stage neural networks.
 
 ---
 
-## ⭐ Best Repositories  
-| 🧠 Data Science | 🤖 Artificial Intelligence |
-|----------------|---------------------------|
-| Notes, projects, and assignments about data science. | Machine learning models, neural networks, and AI experiments. |
+## Tools I Use
+- VS Code, JetBrains Suite  
+- Git & GitHub  
+- Postman, Insomnia  
+- Docker environment setup  
+- Linux-based workflow  
 
 ---
 
-## 🏗 Tech Stack  
-`C++` `Java` `Python` `JavaScript` `SQL` `MySQL` `Tensorflow` `PyTorch` `React` `Node.js`
+## Contact
+You can reach me through GitHub or any preferred platform for collaboration, discussion, or development projects.
 
 ---
 
-## ☕ Support Me  
-<p>
-  <a href="https://buymeacoffee.com/yourname">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-yellow?style=for-the-badge"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://i.imgur.com/yourpixelart.png" width="100%">
-</p>
+<p align="center">— Minimalist. Precise. Built for clarity. —</p>
