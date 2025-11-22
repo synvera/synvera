@@ -3,6 +3,10 @@
 <h1 align="center" style="font-weight:700;">Kapi</h1>
 <p align="center">Software Developer • Modern Engineering • Minimalist Systems Design</p>
 
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/9919?s=280&v=4" width="150" style="border-radius:50%; border:2px solid #333;">
+</p>
+
 <br>
 
 ## Profile
@@ -57,6 +61,8 @@ Modern UI with consistent layout systems, clean spacing, and zero-noise design l
 
 ### Machine Learning & Automation
 Lightweight ML experiments, automation scripts, and data-driven workflows.
+
+*(Tambahkan link repositori saat sudah siap.)*
 
 ---
 
