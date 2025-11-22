@@ -35,15 +35,15 @@ I value minimalism, clean architecture, and reliable engineering practices.
 
 ## GitHub Performance Metrics
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=cccccc&icon_color=888888" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=cccccc" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=synvera&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=cccccc&icon_color=888888" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=synvera&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=cccccc" />
 </div>
 
 ---
 
 ## Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=react-dark&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=synvera&theme=react-dark&hide_border=true&area=true" width="100%" />
 </div>
 
 ---
@@ -57,8 +57,6 @@ Modern UI with consistent layout systems, clean spacing, and zero-noise design l
 
 ### Machine Learning & Automation
 Lightweight ML experiments, automation scripts, and data-driven workflows.
-
-*(Tambahkan link repositori saat sudah siap.)*
 
 ---
 
