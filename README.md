@@ -77,11 +77,11 @@
   <a href="https://github.com/synvera/portfolio-website">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=synvera&repo=synvera&theme=tokyonight&hide_border=true" alt="synvera"/>
   </a>
-  <a href="https://github.com/synvera/react-components">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=synvera&repo=Ruang_Bersuara.github.io&theme=tokyonight&hide_border=true" alt="React Components"/>
+  <a href="https://github.com/synvera/kas_kelas_Laravel_T1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=synvera&repo=kas_kelas_Laravel_T1&theme=tokyonight&hide_border=true" alt="React Components"/>
   </a>
-  <a href="https://github.com/synvera/portfolio-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=synvera&repo=Perkumpulan_Asset_Buat_Nambahin_Portofolio&theme=tokyonight&hide_border=true" alt="synvera"/>
+  <a href="https://github.com/synvera/student-attendance-php">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=synvera&repo=student-attendance-php&theme=tokyonight&hide_border=true" alt="synvera"/>
   </a>
 </p>
 
