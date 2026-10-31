@@ -53,16 +53,9 @@
 
 ---
 
-### Featured Projects
+### My Stats
 
-<p align="center">
-  <a href="https://github.com/synvera/Booking-table-website-resto">
-    <img src="https://github-readme-stats.pw/api/pin/?username=synvera&repo=Booking-table-website-resto&theme=dark&hide_border=true" alt="Featured Project 1" />
-  </a>
-  <a href="https://github.com/synvera/Website-KasKelas">
-    <img src="https://github-readme-stats.pw/api/pin/?username=synvera&repo=Website-KasKelas&theme=dark&hide_border=true" alt="Featured Project 2" />
-  </a>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=synvera&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
