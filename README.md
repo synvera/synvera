@@ -57,10 +57,10 @@
 
 <p align="center">
   <a href="https://github.com/synvera/Booking-table-website-resto">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=synvera&repo=Booking-table-website-resto&theme=dark&hide_border=true" alt="Featured Project 1" />
+    <img src="https://github-readme-stats.pw/api/pin/?username=synvera&repo=Booking-table-website-resto&theme=dark&hide_border=true" alt="Featured Project 1" />
   </a>
   <a href="https://github.com/synvera/Website-KasKelas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=synvera&repo=Website-KasKelas&theme=dark&hide_border=true" alt="Featured Project 2" />
+    <img src="https://github-readme-stats.pw/api/pin/?username=synvera&repo=Website-KasKelas&theme=dark&hide_border=true" alt="Featured Project 2" />
   </a>
 </p>
 
@@ -69,7 +69,7 @@
 ### GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=synvera&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.pw/api?username=synvera&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 ---
@@ -80,7 +80,7 @@
   <a href="https://linkedin.com/in/USERNAME_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:email@domain.com">
+  <a href="mailto:synveragroupp@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/synvera" target="_blank">
