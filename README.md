@@ -1,11 +1,9 @@
 <div align="center">
 
 <!-- Header Banner Cover -->
-<div style="width: 100%; height: 160px; overflow: hidden; border-radius: 8px;">
-  <img src="asset/Desain tanpa judul (18).png" style="width: 100%; height: 50%; object-fit: cover;" alt="Header Banner" />
-</div>
+<img src="asset/Desain tanpa judul (18).png" width="100%" height="160" style="object-fit: cover;" alt="Header Banner" />
 
-<br/>
+<br/><br/>
 
 <!-- Intro Utama -->
 <h1>Halooo, I'm Moch. Khahfi</h1>
@@ -74,6 +72,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=synvera&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
+---
+
 ### Get In Touch
 
 <p>
@@ -83,7 +83,7 @@
   <a href="mailto:email@domain.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/USERNAME_GITHUB" target="_blank">
+  <a href="https://github.com/synvera" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
