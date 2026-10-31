@@ -2,7 +2,7 @@
 
 <!-- Header Banner Cover -->
 <div style="width: 100%; height: 160px; overflow: hidden; border-radius: 8px;">
-  <img src="asset/Human%20after%20all%20%F0%9F%A4%B7.jpeg" style="width: 100%; height: 100%; object-fit: cover;" alt="Header Banner" />
+  <img src="asset/Desain tanpa judul (18).png" style="width: 100%; height: 50%; object-fit: cover;" alt="Header Banner" />
 </div>
 
 <br/>
