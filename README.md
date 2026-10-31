@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner Cover -->
-<img src="asset/Desain tanpa judul (18).png" width="100%" height="160" style="object-fit: cover;" alt="Header Banner" />
+<img src="asset/Desain tanpa judul (19).png" width="100%" height="100%" style="object-fit: cover;" alt="Header Banner" />
 
 <br/><br/>
 
