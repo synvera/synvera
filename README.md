@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner Cover -->
-<img src="asset/download.gif" width="100%" height="160" style="object-fit: cover;" alt="Header Banner" />
+<img src="asset/download.gif" width="100%" style="object-fit: cover;" alt="Header Banner" />
 
 <br/><br/>
 
