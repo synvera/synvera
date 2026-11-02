@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner Cover -->
-<img src="asset/download.gif" width="100%" height="100%" style="object-fit: cover;" alt="Header Banner" />
+<img src="asset/download.gif" width="100%" height="160" style="object-fit: cover;" alt="Header Banner" />
 
 <br/><br/>
 
@@ -53,16 +53,14 @@
 
 ---
 
-### My Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=synvera&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### GitHub Overview
+### GitHub Overview & Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.pw/api?username=synvera&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=synvera&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=synvera&theme=zenburn" alt="GitHub Summary" />
 </p>
 
 ---
@@ -70,9 +68,6 @@
 ### Get In Touch
 
 <p>
-  <a href="https://linkedin.com/in/USERNAME_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
   <a href="mailto:synveragroupp@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
